@@ -15,4 +15,5 @@ body {
   background-color: #17171c;
   padding: 24px;
   max-width: 900px;
+  margin-inline: auto;
 }
